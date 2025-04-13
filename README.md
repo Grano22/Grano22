@@ -10,8 +10,8 @@
 
 ### 📫 How to reach me
 
-1. ![Linkedin](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/small/light/linkedin.svg)
-2. ![Medium](https://medium.com/@blasiak.adrian)
+1. [Linkedin](https://www.linkedin.com/in/adrian-blasiak/)
+2. [Medium](https://medium.com/@blasiak.adrian)
 
 <!--
 **Grano22/Grano22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
