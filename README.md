@@ -4,13 +4,21 @@
 
 1. ‎‍💼 Professionally, I work as a Fullstack Software Engineer.
 2. 🌱 Currently, I'm learning the Kotlin and AWS.
-3. 🥋 I post articles and reflections on social pages listed below. I love knowledge sharing.
-4. 🎳 My hobbies: Traveling, bowling, billiards, listening to music, karaoke, retro, and homelabs.
+3. 🔭 I’m currently working on portoflio projects.
+4. 🥋 I post articles and reflections on social pages listed below. I love knowledge sharing.
+5. 🎳 My hobbies: Traveling, bowling, billiards, listening to music, karaoke, retro, and homelabs.
 
 ### 📫 How to reach me
 
 1. [Linkedin](https://www.linkedin.com/in/adrian-blasiak/)
 2. [Medium](https://medium.com/@blasiak.adrian)
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="ko-fi logo"  />
+  <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
+</div>
 
 ### ⚡ Techstack
 
